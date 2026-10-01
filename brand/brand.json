@@ -1,0 +1,44 @@
+{
+  "meta": { "company": "", "website": "", "lastUpdated": "YYYY-MM-DD", "version": 1 },
+  "identity": {
+    "name": "",
+    "shortName": "",
+    "tagline": "",
+    "oneLiner": "",
+    "category": "",
+    "location": ""
+  },
+  "colors": {
+    "primary":    { "hex": "", "name": "", "use": "" },
+    "secondary":  { "hex": "", "name": "", "use": "" },
+    "accent":     { "hex": "", "name": "", "use": "" },
+    "background": { "hex": "", "name": "", "use": "" },
+    "text":       { "hex": "", "name": "", "use": "" }
+  },
+  "typography": {
+    "heading": { "family": "", "weights": [], "fallback": "", "source": "" },
+    "body":    { "family": "", "weights": [], "fallback": "", "source": "" }
+  },
+  "logos": [
+    { "file": "", "variant": "", "useOn": "" }
+  ],
+  "products": [
+    { "id": "", "name": "", "description": "", "url": "", "priceNote": "" }
+  ],
+  "sellingPoints": [
+    { "point": "", "proof": "" }
+  ],
+  "audiences": [
+    { "id": "", "name": "", "who": "", "wants": "", "objections": "", "bestHook": "" }
+  ],
+  "proof": { "reviewQuotes": [], "ratings": [], "awards": [], "press": [] },
+  "ctas": { "primary": "", "secondary": [], "bookingUrl": "" },
+  "adFormats": [
+    { "id": "feed-square",   "width": 1080, "height": 1080, "placements": ["Instagram feed", "Facebook feed"] },
+    { "id": "feed-portrait", "width": 1080, "height": 1350, "placements": ["Instagram feed", "Facebook feed"] },
+    { "id": "story",         "width": 1080, "height": 1920, "placements": ["Instagram Stories", "Reels", "Facebook Stories"] }
+  ],
+  "copyLimits": { "metaPrimaryText": 125, "metaHeadline": 40, "metaDescription": 30, "note": "recommended max characters" },
+  "imageRules": { "always": [], "never": [], "photoStyle": "" },
+  "doNotClaim": []
+}
