@@ -17,7 +17,9 @@ Based on *How I Built an Automated Ad Machine With Claude Code* (James Devonport
 
 ## Git
 - Work on the branch `brand-setup`. Create it from `main` if it doesn't exist,
-  or switch to it if it does.
+  or switch to it if it does. If this session has already been assigned a
+  working branch (Claude Code on the web does this), use that branch instead.
+  The name doesn't matter; what matters is that the work isn't done on `main`.
 - Don't merge to `main`. That happens after Prompt 02, through a pull request I review.
 
 ## Why this file exists

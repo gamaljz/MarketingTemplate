@@ -20,7 +20,7 @@ prompts/
 1. On GitHub, open this template repo and click **Use this template → Create a new repository**. Name it `<Company>Marketing`.
 2. Fill in `brand/SETTINGS.md` on `main`.
 3. Put logos (SVG/PNG, light and dark versions) and any brand guide in `brand/inbox/`. Have 3–5 pieces of copy you like and 1–2 you dislike ready.
-4. In Claude Code, say *"Follow prompts/01-brand-file.md"*, then *"Follow prompts/02-claude-md.md"*. Both run on a `brand-setup` branch.
+4. In Claude Code, say *"Follow prompts/01-brand-file.md"*, then *"Follow prompts/02-claude-md.md"*. Both run on a temporary branch (`brand-setup`, or the branch Claude Code on the web assigns).
 5. Review the pull request Prompt 02 opens, merge it into `main`, and delete the branch.
 
 From then on, every piece of work starts from `main` and inherits the brand. Use branches for in-progress work only; anything permanent lives on `main`.

@@ -15,8 +15,9 @@ Based on *The Marketer's Guide to Claude Code* (Robert Gillespie), step 5: "Set 
 - `brand/inbox/` and the extra sources listed in `SETTINGS.md`.
 
 ## Git
-- Stay on the `brand-setup` branch from Prompt 01.
-- When you finish, open a pull request from `brand-setup` into `main` for me to
+- Stay on the same branch Prompt 01 used (`brand-setup` or this session's
+  assigned branch).
+- When you finish, open a pull request from that branch into `main` for me to
   review. Don't merge it yourself.
 
 ## Why this file exists
